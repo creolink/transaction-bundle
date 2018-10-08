@@ -40,7 +40,7 @@ is part of the persistence layer, and shall not be aware of this.
 The bundle can be installed in your Symfony project with [Composer][composer]. Open a command console, enter your
 project directory and execute the following command to download the latest stable version of this bundle:
 ```bash
-composer require inneair/transaction-bundle
+composer require creolink/transaction-bundle
 ```
 
 ## 2. Activation
