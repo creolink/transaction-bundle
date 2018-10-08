@@ -28,7 +28,7 @@
 		"symfony/config" : "~4.0",
 		"symfony/dependency-injection" : "~4.0",
 		"symfony/doctrine-bridge" : "~4.0",
-		"symfony/http-kernel" : "",
+		"symfony/http-kernel" : "^3.3|^4.0",
 		"doctrine/orm" : "~2.5",
 		"psr/log" : "~1.0"
 	},
