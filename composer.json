@@ -1,5 +1,5 @@
 {
-	"name" : "inneair/transaction-bundle",
+	"name" : "creolink/transaction-bundle",
 	"type" : "symfony-bundle",
 	"description" : "Transaction bundle for Symfony",
 	"keywords" : [
